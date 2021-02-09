@@ -13,7 +13,7 @@ This assumes that
 
 1. Make a project directory in your pico-sdk parent directory (usually `~/pico`, with sdk at `~/pico/pico-sdk`), e.g. make `~/pico/my-project`.
 2. Press [Use this template], or, download this template as a zip.
-3. Clone your repository/Unzip the downloaded folder your new project directory.
+3. Clone your repository/Unzip the downloaded folder to your new project directory.
 4. Write whatever you want in main.c, add more files, go wild...
 
 
