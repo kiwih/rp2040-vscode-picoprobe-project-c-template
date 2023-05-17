@@ -6,7 +6,7 @@ A template project for quick-starting C-based RP2040 Raspberry Pi Pico projects 
 
 This assumes that 
 1. You have already installed OpenOCD with picoprobe, according to the steps in [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf), Appendix A
-2. Your VSCode has already been configured according to the steps in [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf), Chapter 6
+2. Your VSCode has already been configured according to the steps in [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf), Chapter 7
 3. You have installed the picoprobe uf2 to one Pico, and it is connected to the other Pico with the correct wiring (refer again to Appendix A).
 
 ## Usage
