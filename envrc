@@ -1,0 +1,6 @@
+export PICO_EXTRAS_PATH=$HOME/src/rp2040/pico/pico-extras
+export PICO_SDK_PATH=$HOME/src/rp2040/pico/pico-sdk
+export PICO_BOARD=pico
+export PICO_PLAYGROUND_PATH=$HOME/src/rp2040/pico/pico-playground
+export PICO_EXAMPLES_PATH=$HOME/src/rp2040/pico/pico-examples
+
